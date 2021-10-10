@@ -1,0 +1,26 @@
+.p-profile{
+    background: url(/assets/images/souma.jpeg);
+    height: 495px;
+    width: 100%;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+.p-tag{
+    background:#989898;
+    color:#fff;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+.p-desg{
+    width: 100%;
+    color: #acacac;
+}
+.p-readmore{
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+a {
+    text-decoration: none;
+}
